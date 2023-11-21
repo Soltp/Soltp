@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soltp
+- 👋 Hi, I’m @Soltp(Peng Tang)
 - 👀 I’m interested in temperature prediction with AI and physicals
 - 🌱 I’m currently learning Graph convolutional neural network 
 - 💞️ I’m looking to collaborate on ...
